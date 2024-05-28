@@ -13,14 +13,14 @@ This project scrapes historical weather data for Nice, France from the website [
 
 ## Introduction
 
-The Meteo Nice Scraper is a Python-based project designed to fetch historical weather data for Nice, France. The data includes temperature, wind speed, humidity, visibility, cloud cover, and day length, and is saved to a CSV file for easy analysis.
+The Meteo Nice Scraper is a Python-based script designed to fetch historical weather data for Nice, France. The data includes temperature, wind speed, humidity, visibility, cloud cover, and day length, and is saved to a CSV file for easy analysis.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 - Python 3.x installed on your machine
-- pip (Python package installer)
+- pip 
 - An internet connection to fetch data from the web
 
 ## Installation
