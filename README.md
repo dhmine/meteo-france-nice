@@ -43,14 +43,5 @@ Before you begin, ensure you have met the following requirements:
 ## Usage
 To fetch weather data for a specific date range and save it to a CSV file, use the following command:
   ```bash
-   python scraper.py -s <Start Date> -e <End Date> -f <Target Folder>
-
-
-
-
-
-
-
-
-
-
+   python meteo_scraper.py -s <Start Date> -e <End Date> -f <Target Folder>
+  #Example : python meteo_scraper.py -s 2023/01/01 -e 2023/01/10 -f data
